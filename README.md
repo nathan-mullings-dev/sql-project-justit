@@ -91,5 +91,3 @@ By completing this workbook, I developed proficiency in:
 - Understanding relational database design
 - Solving practical business problems using SQL
 - Communicating technical solutions clearly
-
----
