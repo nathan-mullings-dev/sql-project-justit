@@ -1,4 +1,4 @@
-# 📘 SQL Workbook: Data Technician Bootcamp | JustIT [(PDF)](https://github.com/nathan-mullings-dev/excel-project-justit/blob/main/Data%20Technician%20Workbook%20-%20Excel%20Project.pdf)
+# 📘 Data Technician Workbook - SQL | JustIT [(PDF)](https://github.com/nathan-mullings-dev/excel-project-justit/blob/main/Data%20Technician%20Workbook%20-%20Excel%20Project.pdf)
 
 ---
 
