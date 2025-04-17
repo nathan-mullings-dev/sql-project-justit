@@ -4,7 +4,7 @@
 
 ## 🗂️ Overview
 
-This repository contains my completed SQL workbook from the **JustIT's Data Skills Bootcamp**. It demonstrates my understanding of SQL concepts, relational databases, and practical SQL querying techniques using a real-world dataset.
+This repository contains my completed SQL workbook from the **Just IT's Data Skills Bootcamp**. It demonstrates my understanding of SQL concepts, relational databases, and practical SQL querying techniques using a real-world dataset.
 
 The workbook includes research-based theory, hands-on exercises using the `world_db` sample dataset, and a final applied project that simulates building a database for a small retail business.
 
