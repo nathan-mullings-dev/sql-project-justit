@@ -75,11 +75,9 @@ A 500-word essay and SQL implementation covering:
 
 ## 🛠️ Tools & Technologies
 
-- SQL (MySQL / relational databases)
+- SQL client tools: MySQL Workbench
 - `world_db` sample dataset
-- JustIT Bootcamp curriculum
 - Power Query Editor (for review)
-- SQL client tools (e.g., MySQL Workbench or Azure Data Studio)
 
 ---
 
